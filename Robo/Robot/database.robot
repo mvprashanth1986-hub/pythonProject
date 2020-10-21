@@ -38,5 +38,7 @@ Update record
 Retrive records
     ${queryresult}=  query   select * from mydb.person
     log to console      many    ${queryresult}
+    log to console      many    ${queryresult}
+
 
 
