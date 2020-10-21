@@ -17,3 +17,4 @@ Login Test
     input text       xpath://input[@type='password']   Sunshine@1
     click element    xpath://button[@type='submit']
     exit
+    exit
